@@ -37,10 +37,18 @@ Developed an automated workflow that:
 
 ## Tech Stack
 
-- n8n (workflow automation)
-- Gemini / OpenAI API (LLM)
-- Google Sheets (lead storage)
-- Gmail (notifications)
+
+## 🔐 Environment Setup
+
+1. Copy `.env.example` to `.env`
+2. Fill in your API keys and credentials
+3. Configure credentials inside n8n:
+
+   * Google Sheets OAuth
+   * Gmail OAuth
+   * Gemini/OpenAI API key
+
+⚠️ Do NOT commit your `.env` file to GitHub.
 
 ## Workflow Logic
 
