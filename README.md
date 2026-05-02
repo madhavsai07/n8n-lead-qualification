@@ -15,17 +15,7 @@ This project automates lead qualification, enabling faster and smarter prioritiz
 
 ### 🔹 Full Workflow
 
-![Workflow](screenshots/workflow.png)
-
-### 🔹 AI Output Parsing
-
-![Parse Node](screenshots/parse-node.png)
-
-### 🔹 Lead Classification Logic
-
-![IF Logic](screenshots/if-logic.png)
-
----
+## ![Workflow](screenshots/workflow.png)
 
 ## 🧠 How It Works
 
